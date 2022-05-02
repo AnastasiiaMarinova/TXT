@@ -12,4 +12,4 @@ Client has no rules for it , he sees the messege with this information.
 Severity: Critical
 Priority:High
 Author: Anastasiia Marinova
-Sign to: developer
+Sign to: developer.

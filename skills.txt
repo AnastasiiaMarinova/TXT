@@ -18,4 +18,4 @@
 18 Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)",
 19 SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)
 20 Load testing in Jmeter
-21 Python(basic)
+21 Python(basic).
