@@ -1,0 +1,15 @@
+Client can login in employee app
+Project: Cleanme.com
+Environment IOS 15.4.1 Iphone 13
+Build 0.5.7
+Actual result
+Client is assigned the employee's role and can login in app
+Client can see only trainigs
+Client have mistake in profile, so he cannt logout
+Client needs to reinstall the application
+Expected result
+Client has no rules for it , he sees the messege with this information.
+Severity: Critical
+Priority:High
+Author: Anastasiia Marinova
+Sign to: developer
